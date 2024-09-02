@@ -2,7 +2,6 @@
   "name": "web",
 	"version": "0.0.1",
 	"private": true,
-	"type": "esnext",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
